@@ -1,0 +1,19 @@
+.taskName{
+    background-color: blueviolet;
+    height: 40px;
+}
+.taskMembers{
+    background-color: blue;
+    height: 40px;
+}
+.memberPicture{
+    width: 20px;
+    border-radius: 25px
+}
+.Lists{
+    display: flex
+}
+.List{
+    background-color: brown;
+    margin: 40px
+}
